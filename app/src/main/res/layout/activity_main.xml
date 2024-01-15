@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:context=".MainActivity"
+    android:background="@drawable/background"
+    >
+
+    <LinearLayout
+        android:id="@+id/First"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni"
+            android:paddingTop="5dp"/>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni2"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni2"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni2"
+            android:paddingTop="5dp"/>
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/Third"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni3"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni3"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni3"
+            android:paddingTop="5dp"/>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Fourth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni4"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni4"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni4"
+            android:paddingTop="5dp"/>
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/Fifth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni5"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni5"
+            android:paddingTop="5dp"/>
+
+        <ImageView
+            android:layout_width="137dp"
+            android:layout_height="150dp"
+            android:src="@drawable/msdhoni5"
+            android:paddingTop="5dp"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+    </LinearLayout>
